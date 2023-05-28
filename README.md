@@ -1,0 +1,2 @@
+# DMA-Agglomerative-Clustering-For-Incrementality-Test-Planning.ipynb
+Notebook that takes an input file with DMA code as the unique row identifier and column features attributed to each DMA that makes them distinct. Guided walkthrough with little human input to complete. Runs agglomerative clustering based on the information given: # of desired test cells, size of control group, chart colors, and number of clusters.
